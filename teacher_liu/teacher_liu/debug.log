@@ -1,0 +1,8 @@
+[0507/002928.845:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[0507/002929.196:ERROR:process_info.cc(329)] VirtualQueryEx: 拒绝访问。 (0x5)
+[0507/002929.712:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0507/002929.712:ERROR:exception_snapshot_win.cc(98)] thread ID 23104 not found in process
+[0507/002929.321:ERROR:process_reader_win.cc(151)] SuspendThread: 拒绝访问。 (0x5)
+[0507/002929.712:ERROR:exception_snapshot_win.cc(98)] thread ID 23416 not found in process
+[0507/002929.712:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: 已尝试访问正在退出的过程。 (0xc000010a)
+[0507/002929.712:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: 已尝试访问正在退出的过程。 (0xc000010a)
